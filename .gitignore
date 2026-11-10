@@ -1,2 +1,6 @@
 .env
 .venv
+__pycache__/
+Date - meciuri/
+Documentatie API.yml
+models/saved_data/
