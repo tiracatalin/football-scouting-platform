@@ -10,9 +10,9 @@ Built in 48 hours at **U-Hack 2026** (April, Cluj-Napoca) by a team of five:
 and [@tiracatalin](https://github.com/tiracatalin).
 Forked from [davidandrus1/CodeInBlackWite](https://github.com/davidandrus1/CodeInBlackWite).
 
-<!-- TODO: capturi de ecran -->
 ![Search tab](docs/search.png)
 ![Compatibility engine](docs/compatibility.png)
+![Tactical footprint radar](docs/radar.png)
 
 ## Features
 
